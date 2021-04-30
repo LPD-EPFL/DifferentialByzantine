@@ -1,0 +1,11 @@
+# Ignore every file
+*
+!*/
+
+# Excepted
+!.gitignore
+!LICENSE
+!*.py
+!*.md
+
+!.placeholder
