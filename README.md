@@ -1,5 +1,9 @@
 # Differential Privacy and Byzantine Resilience in SGD: Do They Add Up?
 
+Authors<sup>1</sup>: Rachid Guerraoui, Nirupam Gupta, Rafaël Pinot, Sébastien Rouault, John Stephan
+
+<sup>1</sup><sub>alphabetical order, as for all the papers from the _Distributed Computing Laboratory_ (DCL) of EPFL.</sub>
+
 ## Hardware dependency
 
 There is no particular dependence in the hardware used.\
